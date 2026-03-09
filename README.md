@@ -8,4 +8,4 @@ I'm a cybersecurity enthusiast who loves breaking things (ethically, of course!)
 * 🏢 **Currently:** Defending the digital realm at EXVISION VIETNAM.
 
 ### 🏆 My TryHackMe Journey
-[![Mei's TryHackMe Badge](https://tryhackme.com/badge/1189905)](https://tryhackme.com/p/meintt-1337)
+[![Mei's TryHackMe Badge](https://tryhackme.com/badge/1189905)](https://tryhackme.com/p/d0nutz)
