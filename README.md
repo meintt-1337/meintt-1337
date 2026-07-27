@@ -61,13 +61,9 @@
   <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Certifications+and+Badges.&animation=glitch&font=code&color=00FF41&background=0D1117&size=18&width=1000&duration=60000" alt="Glitch text" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center">🎖️<br><b>CompTIA Security+</b><br><sub>Issued Dec 2025</sub></td>
-    <td align="center">🎖️<br><b>Web Penetration Testing for Beginner</b><br><sub>Cookie Hân Hoan · Apr 2024</sub></td>
-    <td align="center">🎖️<br><b>Certified in Cybersecurity (CC)</b><br><sub>ISC2 · Nov 2024</sub></td>
-  </tr>
-</table>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&duration=1300&pause=1000&color=FF5555&background=0D111700&multiline=true&repeat=false&width=435&lines=%E2%94%8C%E2%94%80%E2%94%80(root%E3%89%BFkali)-%5B~%2F%5D;%E2%94%94%E2%94%80%24+cat+certifications.txt)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&duration=2000&pause=1000&color=F2F2F2&background=0D111700&multiline=true&repeat=false&width=550&height=100&lines=1%2C+CompTIA+Security%2B+-+Issued+Dec+2025;2%2C+Web+Pentest+for+Beginner+-+Cookie+Han+Hoan+.+Apr+2024+;3%2C+Certified+in+Cybersecurity+(CC)+-+ISC2+.+Nov+2024)](https://git.io/typing-svg)
 
 
 
