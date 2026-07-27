@@ -2,7 +2,7 @@
 <h3 align="center">🛡️ Cybersecurity Trainer & Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&lines=root%40d0nutz%3A~%23+whoami;Automating+the+boring+stuff;Defending+the+digital+realm;sudo+rm+-rf+%2Fvulnerabilities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=22&duration=3000&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&lines=root%40d0nutz%3A~%23+whoami;Automating+the+boring+stuff;Defending+the+digital+realm;sudo+rm+-rf+%2Fvulnerabilities" alt="Typing SVG" />
 </p>
 
 > Just a newbie in the field. I like to think of this journey like a farmer slowly learning to tend and grow trees — showing up every day, a little more each time, hoping to build a farm of my own someday...
@@ -14,7 +14,7 @@
 ---
 
 ### <p align="center">
-  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=My+TryHackMe+Journey.&animation=glitch&font=Fira+Code&color=00FF41&background=0D1117&size=18&width=1000" alt="Glitch text" />
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=My+TryHackMe+Journey.&animation=glitch&font=code&color=00FF41&background=0D1117&size=18&width=1000&duration=60000" alt="Glitch text" />
 </p>
 
 [![Mei's TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/d0nutz.png)](https://tryhackme.com/p/d0nutz)
@@ -22,7 +22,7 @@
 
 
 ### <p align="center">
-  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Tools+and+Tech.&animation=glitch&font=Fira+Code&color=00FF41&background=0D1117&size=18&width=1000" alt="Glitch text" />
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Tools+and+Tech.&animation=glitch&font=code&color=00FF41&background=0D1117&size=18&width=1000&duration=60000" alt="Glitch text" />
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 
 
 ### <p align="center">
-  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Github+Stat.&animation=glitch&font=Fira+Code&color=00FF41&background=0D1117&size=18&width=1000" alt="Glitch text" />
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Github+Stat.&animation=glitch&font=code&color=00FF41&background=0D1117&size=18&width=1000&duration=60000" alt="Glitch text" />
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@
 
 
 ### <p align="center">
-  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Certifications+and+Badges.&animation=glitch&font=Fira+Code&color=00FF41&background=0D1117&size=18&width=1000" alt="Glitch text" />
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Certifications+and+Badges.&animation=glitch&font=code&color=00FF41&background=0D1117&size=18&width=1000&duration=60000" alt="Glitch text" />
 </p>
 
 <table align="center">
@@ -72,7 +72,7 @@
 
 
 ### <p align="center">
-  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Connect.&animation=glitch&font=Fira+Code&color=00FF41&background=0D1117&size=18&width=1000" alt="Glitch text" />
+  <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Connect.&animation=glitch&font=code&color=00FF41&background=0D1117&size=18&width=1000&duration=60000" alt="Glitch text" />
 </p>
 
 <p align="center">
