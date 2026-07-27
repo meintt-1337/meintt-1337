@@ -5,8 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=22&duration=3800&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&lines=root%40d0nutz%3A~%23+whoami;Automating+the+boring+stuff;Defending+the+digital+realm;sudo+rm+-rf+%2Fvulnerabilities" alt="Typing SVG" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&duration=1300&pause=1000&color=FF5555&background=0D111700&multiline=true&repeat=false&width=435&lines=%E2%94%8C%E2%94%80%E2%94%80(root%E3%89%BFd0nutz)-%5B~%2F%5D;%E2%94%94%E2%94%80%24+cat+aboutme.txt)](https://git.io/typing-svg)
-> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&duration=3800&pause=800&color=F2F2F2&background=0D111700&multiline=true&repeat=false&width=920&height=80&lines=Just+a+newbie+in+the+field.+;I+like+to+think+of+this+journey+like+a+farmer+slowly+learning+to+tend+and+grow+trees+;-+showing+up+every+day%2C+a+little+more+each+time%2C+hoping+to+build+a+farm+of+my+own+someday...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&duration=10&pause=10&color=FF5555&background=0D111700&multiline=true&repeat=false&width=435&lines=%E2%94%8C%E2%94%80%E2%94%80(root%E3%89%BFd0nutz)-%5B~%2F%5D;%E2%94%94%E2%94%80%24+cat+aboutme.txt)](https://git.io/typing-svg)
+> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&duration=3800&pause=1500&color=F2F2F2&background=0D111700&multiline=true&repeat=false&width=920&height=80&lines=Just+a+newbie+in+the+field.+;I+like+to+think+of+this+journey+like+a+farmer+slowly+learning+to+tend+and+grow+trees+;-+showing+up+every+day%2C+a+little+more+each+time%2C+hoping+to+build+a+farm+of+my+own+someday...)](https://git.io/typing-svg)
 
 - 💻 **Tech Stack:** Leveling up my Python for cybersecurity automation.
 - 🏢 **Currently:** Defending the digital realm at **EXVISION VIETNAM**.
