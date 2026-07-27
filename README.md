@@ -5,32 +5,35 @@
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=22&duration=3800&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&lines=root%40d0nutz%3A~%23+whoami;Automating+the+boring+stuff;Defending+the+digital+realm;sudo+rm+-rf+%2Fvulnerabilities" alt="Typing SVG" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&duration=10&pause=10&color=FF5555&background=0D111700&multiline=true&repeat=false&width=435&lines=%E2%94%8C%E2%94%80%E2%94%80(root%E3%89%BFd0nutz)-%5B~%2F%5D;%E2%94%94%E2%94%80%24+cat+aboutme.txt)](https://git.io/typing-svg)
-> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&duration=3800&pause=1500&color=F2F2F2&background=0D111700&multiline=true&repeat=false&width=920&height=80&lines=Just+a+newbie+in+the+field.+;I+like+to+think+of+this+journey+like+a+farmer+slowly+learning+to+tend+and+grow+trees+;-+showing+up+every+day%2C+a+little+more+each+time%2C+hoping+to+build+a+farm+of+my+own+someday...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&duration=10&pause=10&color=FF5555&background=0D111700&multiline=true&repeat=false&width=435&lines=%E2%94%8C%E2%94%80%E2%94%80(root%E3%89%BFd0nutz)-%5B~%2F%5D;%E2%94%94%E2%94%80%24+whoami)](https://git.io/typing-svg)
+> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&duration=3800&pause=1500&color=808080&background=0D111700&multiline=true&repeat=false&width=920&height=80&lines=Just+a+newbie+in+the+field.+;I+like+to+think+of+this+journey+like+a+farmer+slowly+learning+to+tend+and+grow+trees+;-+showing+up+every+day%2C+a+little+more+each+time%2C+hoping+to+build+a+farm+of+my+own+someday...)](https://git.io/typing-svg)
 
-- 💻 **Tech Stack:** Leveling up my Python for cybersecurity automation.
-- 🏢 **Currently:** Defending the digital realm at **EXVISION VIETNAM**.
-- 🌱 **Learning:** CTF techniques — path traversal, IDOR, and decoding with CyberChef.
+💻 **Tech Stack:** Leveling up my Python for cybersecurity automation.<br>
+🏢 **Currently:** Defending the digital realm at **EXVISION VIETNAM**.<br>
+🌱 **Learning:** CTF techniques — path traversal, IDOR, and decoding with CyberChef.<br>
 
 ---
-
+<!-- My TryHackMe Journey -->
 ### <p align="center">
   <img src="https://readme-svg-typing-generator.vercel.app/api?lines=My+TryHackMe+Journey.&size=22&animation=glitch&font=code&color=00FF41&background=0D1117&size=18&width=1000&duration=60000" alt="Glitch text" />
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&duration=1300&pause=1000&color=FF5555&background=0D111700&multiline=true&repeat=false&width=435&height=70&lines=%E2%94%8C%E2%94%80%E2%94%80(root%E3%89%BFd0nutz)-%5B~%2F%5D;%E2%94%94%E2%94%80%24+display+tryhackme.badge)](https://git.io/typing-svg)
+
 [![Mei's TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/d0nutz.png)](https://tryhackme.com/p/d0nutz)
 
-
-
+<!-- Tools and Tech -->
 ### <p align="center">
   <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Tools+and+Tech.&size=22&animation=glitch&font=code&color=00FF41&background=0D1117&size=18&width=1000&duration=60000" alt="Glitch text" />
 </p>
 
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&duration=1300&pause=1000&color=FF5555&background=0D111700&multiline=true&repeat=false&width=435&height=70&lines=%E2%94%8C%E2%94%80%E2%94%80(root%E3%89%BFd0nutz)-%5B~%2F%5D;%E2%94%94%E2%94%80%24+compgen+-c)](https://git.io/typing-svg)
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,git,vscode,github" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
@@ -38,14 +41,14 @@
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
-
-
+<!-- Github Stat -->
 ### <p align="center">
   <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Github+Stat.&size=22&animation=glitch&font=code&color=00FF41&background=0D1117&size=18&width=1000&duration=60000" alt="Glitch text" />
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&duration=1300&pause=1000&color=FF5555&background=0D111700&multiline=true&repeat=false&width=435&height=70&lines=%E2%94%8C%E2%94%80%E2%94%80(root%E3%89%BFd0nutz)-%5B~%2F%5D;%E2%94%94%E2%94%80%24+systemctl+gitstat)](https://git.io/typing-svg)
+
 <p align="center">
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meintt-1337&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="165" />
 </p>
 
@@ -57,7 +60,7 @@
 </p>
 
 
-
+<!-- Certs -->
 ### <p align="center">
   <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Certifications+and+Badges.&size=22&animation=glitch&font=code&color=00FF41&background=0D1117&size=18&width=1000&duration=60000" alt="Glitch text" />
 </p>
@@ -66,7 +69,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&duration=3800&pause=1500&color=F2F2F2&background=0D111700&multiline=true&width=600&height=100&lines=1%2C+CompTIA+Security%2B+-+CompTIA+.+Dec+2025;2%2C+Web+Pentest+for+Beginner+-+Cookie+Han+Hoan+.+Apr+2024+;3%2C+Certified+in+Cybersecurity+(CC)+-+ISC2+.+Nov+2024;+++++++++++++++++++++++++)](https://git.io/typing-svg)
 
-
+<!-- Connect -->
 ### <p align="center">
   <img src="https://readme-svg-typing-generator.vercel.app/api?lines=Connect.&size=22&animation=glitch&font=code&color=00FF41&background=0D1117&size=18&width=1000&duration=60000" alt="Glitch text" />
 </p>
